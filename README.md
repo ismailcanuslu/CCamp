@@ -1,2 +1,2 @@
 # CCamp by Can Boz
-Learning and practice C Language, insturcator Can Boz from Udemy.
+Learning and practice C Language, instructor Can Boz from Udemy.
