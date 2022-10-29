@@ -8,4 +8,9 @@ int main(void) {
 		printf("%d\n",i);
 		i++;
 	}while(i<10);
+	/*
+	 * koşulun en az bir kere çalışmasını
+	 * istersek do while kullanırız.
+	 * örneğin login sistemleri
+	 */
 }
